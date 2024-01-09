@@ -2,7 +2,7 @@
 
 ## ⚙️ Descripción ⚙️
 
-El siguiente proyecto es para realizar pruebas básicas de aceptación sobre una api, que retorna la información de los 5 paises dejl mundo con mayor densida demografica.
+El siguiente proyecto es para realizar pruebas básicas de aceptación sobre una api, que retorna la información de los 5 paises dej mundo con mayor densida demografica.
 
 ## 📦 Pre-requisitos 📦
 
