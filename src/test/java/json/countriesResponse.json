@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Macau",
+    "area": 30.0,
+    "population": 649342,
+    "populationDensity": 21644.733333333334
+  },
+  {
+    "name": "Monaco",
+    "area": 2.02,
+    "population": 39244,
+    "populationDensity": 19427.722772277226
+  },
+  {
+    "name": "Singapore",
+    "area": 710.0,
+    "population": 5685807,
+    "populationDensity": 8008.178873239437
+  },
+  {
+    "name": "Hong Kong",
+    "area": 1104.0,
+    "population": 7500700,
+    "populationDensity": 6794.11231884058
+  },
+  {
+    "name": "Gibraltar",
+    "area": 6.0,
+    "population": 33691,
+    "populationDensity": 5615.166666666667
+  }
+]

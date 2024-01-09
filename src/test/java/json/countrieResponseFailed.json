@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Macau",
+    "area": 30.0,
+    "population": 649342,
+    "populationDensity": 21644.733333333334
+  },
+  {
+    "name": "Monaco",
+    "area": 2.02,
+    "population": 39244,
+    "populationDensity": 19427.722772277226
+  },
+  {
+    "name": "Singapore",
+    "area": 710.0,
+    "population": 5685807,
+    "populationDensity": 8008.178873239437
+  }
+]
