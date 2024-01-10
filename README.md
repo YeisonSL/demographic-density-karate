@@ -9,6 +9,7 @@ El siguiente proyecto es para realizar pruebas básicas de aceptación sobre una
 * Java 8 o mayor.
 * Gradle para gestión de librerías.
 * Karate
+* Además de realizar la configuración de siguiente proyecto en tu maquina local https://github.com/YeisonSL/Api-Test-Population-Density.git
 
 ## 📋 Para generar el Reporte 📋
 
